@@ -109,6 +109,7 @@ namespace WindowsFormsApp2
         {
 
         }
+        //
         bool isShow = false;
         private void checkBox1_CheckedChanged(object sender, EventArgs e)
         {
